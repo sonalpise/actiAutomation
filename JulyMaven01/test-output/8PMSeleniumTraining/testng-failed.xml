@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [8PMSeleniumTraining]" parallel="none">
+  <test name="TestNGScripts">
+    <classes>
+      <class name="com.qa.testNGScripts.TestNGScript1"/>
+    </classes>
+  </test> <!-- TestNGScripts -->
+  <test name="TestNGScripts(failed)" parallel="none">
+    <classes>
+      <class name="com.qa.testNGScripts.TestNGScript1">
+        <methods>
+          <include name="closeBrowser"/>
+          <include name="itenryCustomer"/>
+          <include name="login"/>
+          <include name="timeout"/>
+          <include name="configuration"/>
+        </methods>
+      </class> <!-- com.qa.testNGScripts.TestNGScript1 -->
+    </classes>
+  </test> <!-- TestNGScripts(failed) -->
+</suite> <!-- Failed suite [8PMSeleniumTraining] -->

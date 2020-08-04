@@ -1,0 +1,11 @@
+[0726/165224.165:ERROR:process_info.cc(359)] UncheckedAllocate
+[0726/165224.320:ERROR:process_info.cc(359)] UncheckedAllocate
+[0726/225517.506:ERROR:process_info.cc(359)] UncheckedAllocate
+[0726/225517.848:ERROR:process_info.cc(359)] UncheckedAllocate
+[0726/225518.162:ERROR:process_info.cc(359)] UncheckedAllocate
+[0727/203738.209:ERROR:process_info.cc(359)] UncheckedAllocate
+[0727/203807.143:ERROR:process_info.cc(359)] UncheckedAllocate
+[0727/213838.898:ERROR:registration_protocol_win.cc(64)] BuildSecurityDescriptor: The specified network provider name is invalid. (0x4B4)
+[0727/213838.957:ERROR:registration_protocol_win.cc(131)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0727/214429.518:ERROR:process_info.cc(359)] UncheckedAllocate
+[0727/215019.982:ERROR:process_info.cc(359)] UncheckedAllocate
