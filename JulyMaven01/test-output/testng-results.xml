@@ -1,17 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" total="1" passed="1">
+<testng-results skipped="0" failed="0" total="0" passed="0">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="570" started-at="2020-08-02T19:50:33Z" finished-at="2020-08-02T19:50:34Z">
+  <suite name="Default suite" duration-ms="4" started-at="2020-08-08T16:20:52Z" finished-at="2020-08-08T16:20:52Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="570" started-at="2020-08-02T19:50:33Z" finished-at="2020-08-02T19:50:34Z">
-      <class name="com.qa.testNGScripts.writeinExcel">
-        <test-method status="PASS" signature="write()[pri:0, instance:com.qa.testNGScripts.writeinExcel@11531931]" name="write" duration-ms="561" started-at="2020-08-02T15:50:33Z" finished-at="2020-08-02T15:50:34Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- write -->
-      </class> <!-- com.qa.testNGScripts.writeinExcel -->
+    <test name="Default test" duration-ms="4" started-at="2020-08-08T16:20:52Z" finished-at="2020-08-08T16:20:52Z">
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
